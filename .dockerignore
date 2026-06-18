@@ -1,0 +1,10 @@
+node_modules
+dist
+.env.local
+build_log.txt
+.git
+.gitignore
+README.md
+Dockerfile
+.dockerignore
+uploads

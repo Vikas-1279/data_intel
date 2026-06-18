@@ -1,0 +1,5 @@
+{
+  "name": "DataSet",
+  "description": "A powerful data visualization dashboard specializing in bar charts and conversational analysis. Upload your data or use sample datasets to generate insights instantly.",
+  "requestFramePermissions": []
+}
